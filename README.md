@@ -1,4 +1,4 @@
-# myTimeDisplayDjangoProj
+<h1 align="center">My Time Display Django Project</h1>
 <p align="center">
 Screen Capture of the Django time display app.
   <br><br>

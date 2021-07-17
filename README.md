@@ -1,2 +1,2 @@
 # myTimeDisplayDjangoProj
-[Time Display Image](images/MyTimeDisplayProjectImage.PNG)
+![Time Display Image](images/MyTimeDisplayProjectImage.PNG)
